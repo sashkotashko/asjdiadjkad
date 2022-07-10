@@ -1,0 +1,11 @@
+if game.PlaceId = 5714256147 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/sashkotashko/asjdiadjkad/main/zombiesim", true))()
+end
+
+if game.PlaceId = 4972091010 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/sashkotashko/asjdiadjkad/main/zombieuprising", true))()
+end
+
+if game.PlaceId = 7277614831 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/sashkotashko/asjdiadjkad/main/candyeatingsim", true))()
+end
